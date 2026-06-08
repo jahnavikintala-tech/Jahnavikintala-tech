@@ -1,4 +1,4 @@
-You can use this as your **GitHub Profile README**:
+
 
 # 👋 Hi, I'm Kintala Jahnavi
 
