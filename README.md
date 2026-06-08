@@ -30,7 +30,6 @@ To secure a challenging role in software development or data science where I can
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2088FF?style=flat&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -47,7 +46,6 @@ To secure a challenging role in software development or data science where I can
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahnavikintala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kintala-jahnavi-j2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jahnavikintala-tech)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kintalajahnavi)
 
 </div>
 
