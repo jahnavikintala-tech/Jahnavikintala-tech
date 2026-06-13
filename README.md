@@ -56,8 +56,6 @@ I'm always open to learning opportunities, collaborations, or interesting discus
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahnavikintala-tech&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 ⭐ Feel free to explore my repositories and connect with me!
 
+---
